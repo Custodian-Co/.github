@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Custodia-Org/.github/main/profile/Custodia-Banner.jpg" alt="Custodia" width="100%" />
+<img src="Custodia-Banner.jpg" alt="Custodia" width="100%" />
 
 </div>
 
