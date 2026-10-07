@@ -6,4 +6,4 @@
 
 <br />
 
-Free, browser-based practice IDE for IIT-M BS OPPE prep. Built by students, for students. Independent and not officially affiliated with IIT Madras.
+Free, browser-based practice IDE for Programming prep. Built by students, for students. Independent and not officially affiliated with Any College.
